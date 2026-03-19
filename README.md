@@ -1,5 +1,5 @@
-## Hola soy un programador Junior 👋
-## Estudiante de E.E.T Nro 24 "Simon de Iriondo"
+Hola soy un programador Junior 👋
+Estudiante de E.E.T Nro 24 "Simon de Iriondo"
 
 <!--
 **XavierL7/XavierL7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
